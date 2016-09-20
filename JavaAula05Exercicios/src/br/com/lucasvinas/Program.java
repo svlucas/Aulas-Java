@@ -10,7 +10,6 @@ public class Program {
 		
 		Estoque estoqueFisico = new Estoque(50);
 		List<Carros> listaDeCarros = new ArrayList<Carros>();
-		List<Motos> listaDeMotos = new ArrayList<Motos>();
 		
 		Carros fusca = new Carros(1963, "Azul", 60000, "Fusca", 27500.0, "VM", "0326198457", 1.5);
 		Carros monza = new Carros(1988, "Vermelho", 83567, "Monza", 18990.0, "GM", "0134276985", 2.0);		

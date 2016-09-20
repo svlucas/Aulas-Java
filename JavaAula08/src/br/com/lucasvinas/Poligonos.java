@@ -11,5 +11,4 @@ public class Poligonos {
 		System.out.println("Triangulo: " + triangulo.getCor() + "\nArea: " + triangulo.calcularArea());
 
 	}
-
 }

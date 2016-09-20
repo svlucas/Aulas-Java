@@ -19,6 +19,4 @@ public abstract class Funcionario {
 	public void setSalario(double salario) {
 		this.salario = salario;
 	}
-	
-	
 }
